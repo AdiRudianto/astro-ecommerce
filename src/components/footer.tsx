@@ -13,7 +13,7 @@ export default function Footer() {
                 className="text-dark ms-1"
                 target="_blank"
               >
-                Creative Tim
+                Creative Tim uat 123
               </a>
               .
             </div>
